@@ -13,7 +13,7 @@ struct Employees: Codable {
     let message: String
 }
 
-// MARK: - Datum
+// MARK: - EmployeeData
 struct EmployeeData: Codable {
     let id: Int
     let employeeName: String

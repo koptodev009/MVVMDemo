@@ -29,7 +29,7 @@ class APIService {
         dataTask.resume()
     }
     
-    
+    //alamofire
     func apiGetDataEmployee(completion : @escaping (Employees) -> ()){
         let url = URL(string: "https://dummy.restapiexample.com/api/v1/employees") ?? nil
         AF.request(url!, method: .get, parameters: nil, encoding: URLEncoding.default, headers: nil, interceptor: nil)

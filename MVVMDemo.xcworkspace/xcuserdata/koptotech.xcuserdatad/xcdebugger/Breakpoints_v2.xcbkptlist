@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "6656D9E6-873D-4876-BEAB-0AF37432D907"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "32967125-0211-483C-953E-7F4743698DEF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVMDemo/View Models/EmployeeViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "callFuncToGetEmpData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "32967125-0211-483C-953E-7F4743698DEF - 99a67c202a40daa9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MVVMDemo.EmployeeViewModel.callFuncToGetEmpData() -&gt; ()"
+                  moduleName = "MVVMDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/koptotech/Documents/Test%20%20Projects%20/MVVMDemo/MVVMDemo/View%20Models/EmployeeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "230">
+               </Location>
+               <Location
+                  uuid = "32967125-0211-483C-953E-7F4743698DEF - 99a67c202a40daa9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MVVMDemo.EmployeeViewModel.callFuncToGetEmpData() -&gt; ()"
+                  moduleName = "MVVMDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/koptotech/Documents/Test%20%20Projects%20/MVVMDemo/MVVMDemo/View%20Models/EmployeeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "246">
+               </Location>
+               <Location
+                  uuid = "32967125-0211-483C-953E-7F4743698DEF - 99a67c202a40daa9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MVVMDemo.EmployeeViewModel.callFuncToGetEmpData() -&gt; ()"
+                  moduleName = "MVVMDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/koptotech/Documents/Test%20%20Projects%20/MVVMDemo/MVVMDemo/View%20Models/EmployeeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "34">
+               </Location>
+               <Location
+                  uuid = "32967125-0211-483C-953E-7F4743698DEF - a8b3a0af7b65fc86"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (MVVMDemo.Employees) -&gt; () in MVVMDemo.EmployeeViewModel.callFuncToGetEmpData() -&gt; ()"
+                  moduleName = "MVVMDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/koptotech/Documents/Test%20%20Projects%20/MVVMDemo/MVVMDemo/View%20Models/EmployeeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "160">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
