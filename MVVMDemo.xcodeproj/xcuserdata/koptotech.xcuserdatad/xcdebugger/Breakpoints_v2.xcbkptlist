@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "C5B58045-973D-4FE1-BC8D-91C03EC463E9"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "299B9621-7785-4AA6-B034-CECC605F38FC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVMDemo/API Services/APIService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "APIService"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "299B9621-7785-4AA6-B034-CECC605F38FC - bf89272aa0dc7e55"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MVVMDemo.apiGetDataEmployee() -&gt; ()"
+                  moduleName = "MVVMDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/koptotech/Documents/Test%20%20Projects%20/MVVMDemo/MVVMDemo/API%20Services/APIService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "117">
+               </Location>
+               <Location
+                  uuid = "299B9621-7785-4AA6-B034-CECC605F38FC - 90a94e0e9dbc9d51"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MVVMDemo.APIService.apiGetDataEmployee() -&gt; ()"
+                  moduleName = "MVVMDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/koptotech/Documents/Test%20%20Projects%20/MVVMDemo/MVVMDemo/API%20Services/APIService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "129">
+               </Location>
+               <Location
+                  uuid = "299B9621-7785-4AA6-B034-CECC605F38FC - 96e0c745970f0324"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MVVMDemo.APIService.apiGetDataEmployee(completion: (MVVMDemo.Employees) -&gt; ()) -&gt; ()"
+                  moduleName = "MVVMDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/koptotech/Documents/Test%20%20Projects%20/MVVMDemo/MVVMDemo/API%20Services/APIService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "172">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3AB31B4A-B157-4B1F-8D8F-D6688CA11384"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVMDemo/API Services/APIService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "apiGetDataEmployee(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3AB31B4A-B157-4B1F-8D8F-D6688CA11384 - 227fd8ed46073827"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Swift.Optional&lt;Foundation.Data&gt;, Alamofire.AFError&gt;) -&gt; () in MVVMDemo.apiGetDataEmployee() -&gt; ()"
+                  moduleName = "MVVMDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/koptotech/Documents/Test%20%20Projects%20/MVVMDemo/MVVMDemo/API%20Services/APIService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "97">
+               </Location>
+               <Location
+                  uuid = "3AB31B4A-B157-4B1F-8D8F-D6688CA11384 - bf1b806022611737"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Swift.Optional&lt;Foundation.Data&gt;, Alamofire.AFError&gt;) -&gt; () in MVVMDemo.APIService.apiGetDataEmployee() -&gt; ()"
+                  moduleName = "MVVMDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/koptotech/Documents/Test%20%20Projects%20/MVVMDemo/MVVMDemo/API%20Services/APIService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "97">
+               </Location>
+               <Location
+                  uuid = "3AB31B4A-B157-4B1F-8D8F-D6688CA11384 - bf1b806022611737"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Swift.Optional&lt;Foundation.Data&gt;, Alamofire.AFError&gt;) -&gt; () in MVVMDemo.APIService.apiGetDataEmployee() -&gt; ()"
+                  moduleName = "MVVMDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/koptotech/Documents/Test%20%20Projects%20/MVVMDemo/MVVMDemo/API%20Services/APIService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "179">
+               </Location>
+               <Location
+                  uuid = "3AB31B4A-B157-4B1F-8D8F-D6688CA11384 - bf1b806022611737"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Swift.Optional&lt;Foundation.Data&gt;, Alamofire.AFError&gt;) -&gt; () in MVVMDemo.APIService.apiGetDataEmployee() -&gt; ()"
+                  moduleName = "MVVMDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/koptotech/Documents/Test%20%20Projects%20/MVVMDemo/MVVMDemo/API%20Services/APIService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "236">
+               </Location>
+               <Location
+                  uuid = "3AB31B4A-B157-4B1F-8D8F-D6688CA11384 - bf1b806022611737"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Swift.Optional&lt;Foundation.Data&gt;, Alamofire.AFError&gt;) -&gt; () in MVVMDemo.APIService.apiGetDataEmployee() -&gt; ()"
+                  moduleName = "MVVMDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/koptotech/Documents/Test%20%20Projects%20/MVVMDemo/MVVMDemo/API%20Services/APIService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "243">
+               </Location>
+               <Location
+                  uuid = "3AB31B4A-B157-4B1F-8D8F-D6688CA11384 - 618d46bbb5e62f10"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Swift.Optional&lt;Foundation.Data&gt;, Alamofire.AFError&gt;) -&gt; () in MVVMDemo.APIService.apiGetDataEmployee(completion: (MVVMDemo.Employees) -&gt; ()) -&gt; ()"
+                  moduleName = "MVVMDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/koptotech/Documents/Test%20%20Projects%20/MVVMDemo/MVVMDemo/API%20Services/APIService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "261">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
